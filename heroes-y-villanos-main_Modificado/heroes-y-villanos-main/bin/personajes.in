@@ -1,0 +1,32 @@
+Héroe/Villano, NombreReal, NombrePersonaje, Velocidad, Fuerza, Resistencia, Destreza
+Heroe, Clark Kent, Superman, 95, 100, 100, 85
+Heroe, Bruce Wayne, Batman, 80, 85, 90, 95
+Heroe, Diana Prince, Wonder Woman, 90, 95, 95, 90
+Heroe, Barry Allen, The Flash, 100, 70, 80, 85
+Heroe, Peter Parker, Spiderman, 85, 80, 85, 95
+Heroe, Tony Stark, Iron Man, 85, 90, 85, 90
+Heroe, Steve Rogers, Captain America, 80, 85, 95, 85
+Heroe, Bruce Banner, Hulk, 70, 100, 95, 50
+Heroe, Thor Odinson, Thor, 85, 100, 95, 80
+Heroe, Natasha Romanoff, Black Widow, 80, 70, 75, 95
+Heroe, Wanda Maximoff, Scarlet Witch, 70, 60, 80, 85
+Heroe, Scott Lang, Ant Man, 75, 70, 80, 90
+Heroe, Stephen Strange, Doctor Strange, 70, 65, 80, 90
+Heroe, T Challa, Black Panther, 85, 85, 90, 95
+Heroe, Hal Jordan, Green Lantern, 80, 80, 85, 85
+Villano, Lex Luthor, Lex Luthor, 50, 55, 60, 90
+Villano, Oswald Cobblepot, The Penguin, 40, 50, 55, 70
+Villano, Edward Nygma, The Riddler, 60, 50, 60, 85
+Villano, Harvey Dent, Two Face, 65, 70, 70, 75
+Villano, Joker, Joker, 65, 60, 65, 80
+Villano, Victor Fries, Mr Freeze, 50, 65, 80, 60
+Villano, Selina Kyle, Catwoman, 85, 65, 70, 95
+Villano, Norman Osborn, Green Goblin, 75, 80, 75, 85
+Villano, Otto Octavius, Doctor Octopus, 60, 85, 80, 80
+Villano, Victor Von Doom, Doctor Doom, 70, 85, 90, 90
+Villano, Thanos, Thanos, 70, 100, 100, 80
+Villano, Loki Laufeyson, Loki, 75, 70, 80, 90
+Villano, Wilson Fisk, Kingpin, 55, 90, 85, 70
+Villano, Magneto, Magneto, 60, 75, 85, 80
+Villano, En Sabah Nur, Apocalypse, 80, 95, 100, 85
+Heroe, a, pepito, 1, 2, 3, 4
